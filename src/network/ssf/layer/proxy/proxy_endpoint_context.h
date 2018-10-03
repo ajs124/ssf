@@ -3,6 +3,7 @@
 
 #include <string>
 
+#include <boost/asio/io_service.hpp>
 #include <boost/asio/ip/tcp.hpp>
 
 #include "ssf/layer/physical/host.h"
